@@ -3,7 +3,7 @@ Script to check whether a website has changed by comparing
 the previous sha256 hash with the current one.
 
 ## Configuration
-1. Install Python 3.7.7 and every library in `requirements.txt` with
+1. Install Python 3.8.5 and every library in `requirements.txt` with
    `pip install -r requirements.txt`.
 
 2. Websites to be monitored are listed in  `websites.csv`. 
